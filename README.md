@@ -2,4 +2,4 @@
 This repository is specially prepared for lab4
 
 ## Result
-<img width="812" height="1257" alt="image" src="https://github.com/user-attachments/assets/1f846e37-77e0-4b0c-96d8-cba700fbadd0" />
+<img width="1170" height="1131" alt="image" src="https://github.com/user-attachments/assets/1cc39e3d-09f6-4a09-af3e-bb9775e7d033" />
